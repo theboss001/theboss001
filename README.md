@@ -185,19 +185,19 @@ pie
     "Coffee Breaks" : 15
 ```
 
-## 🎯 **Skills Radar Chart**
+## 🎯 **Skills Proficiency**
 
 ```mermaid
-radar
+pie
     title Skills Proficiency
-    "NestJS" : 85
     "TypeScript" : 90
-    "PHP" : 75
-    "Java" : 70
-    "Next.js" : 80
+    "NestJS" : 85
     "React" : 85
-    "Docker" : 75
+    "Next.js" : 80
     "PostgreSQL" : 80
+    "PHP" : 75
+    "Docker" : 75
+    "Java" : 70
     "Architecture" : 65
     "Coffee Making" : 95
 ```
